@@ -14,7 +14,7 @@ main:
     url: '#talks'
     weight: 30
   - name: CV
-    url: uploads/resume.pdf
+    url: media/resume.pdf
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
