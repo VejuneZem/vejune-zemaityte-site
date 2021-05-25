@@ -21,7 +21,7 @@ author_notes: []
 publication: NECSUS. European Journal of Media Studies
 summary: ""
 url_dataset: ""
-url_project: ""
+url_project: "Kinomatics"
 publication_short: NECSUS
 url_source: ""
 url_video: ""
