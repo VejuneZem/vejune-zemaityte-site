@@ -1,19 +1,20 @@
 ---
 # Display name
-title: Vejune Zemaityte
+title: __Vejune Zemaityte__
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Fellow in Cultural Data Analytics
+role: Senior Research Fellow in 
+Cultural Data Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: CUDAN Open Lab
-  url: https://www.stanford.edu/
+  url: https://cudan.tlu.ee/
 - name: Tallinn University
-  url: https://www.stanford.edu/
+  url: https://www.tlu.ee/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
