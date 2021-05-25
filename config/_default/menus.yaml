@@ -10,9 +10,6 @@ main:
   - name: Publications
     url: '/publication'
     weight: 20
-  - name: Talks
-    url: '/talks'
-    weight: 30
   - name: CV
     url: media/resume.pdf
     weight: 40
@@ -31,3 +28,6 @@ main:
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
+#  - name: Talks
+#    url: '/talks'
+#    weight: 30
