@@ -59,7 +59,7 @@ social:
 - icon: academia
   icon_pack: ai
   link: https://tallinn.academia.edu/VejuneZemaityte
-- icon: linkedin
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/vejunezemaityte
 - icon: twitter
