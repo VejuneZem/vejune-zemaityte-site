@@ -52,9 +52,9 @@ education:
 superuser: true
 highlight_name: false
 ---
-#   
-
-
-
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["200px", "0", "o", "0"]
 
 Dr Vejune Zemaityte is a Senior Research Fellow in Cultural Data Analytics at the [Baltic Film, Media and Arts School (BFM)](https://www.tlu.ee/en/bfm), Tallinn University in Estonia working as part of the [CUDAN Open Lab](https://cudan.tlu.ee/). She uses data analysis and visualisation techniques including social network analysis to study global creative industries. Vejune is interested in the circulation of cultural products through time and space, audience accessibility to diverse cultural content across geographic areas, and gender inequality in cultural production. Her work is interdisciplinary, data-driven, and industry-facing, often performed in collaboration with external partners.
