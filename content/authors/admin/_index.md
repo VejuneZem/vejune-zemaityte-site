@@ -24,8 +24,8 @@ interests:
 - screen industries
 - circulation
 - accessibility
-- diversity
 - cultural tastes
+- diversity
 - gender
 - cultural labour
 - collaboration networks
