@@ -2,10 +2,10 @@
 name = "my_font"
 
 # Optional Google font URL
-google_fonts = "family=Lexend:wght@300&family=Mukta&display=swap&family=Monoton"
+google_fonts = "family=Lexend:wght@300&family=Mukta&display=swap&family=Monoton&family=Raleway&display=swap"
 
 # Font families
-heading_font = "Monoton"
+heading_font = "Raleway"
 body_font = "Lexend"
 nav_font = "Lexend"
 mono_font = "Lexend"
