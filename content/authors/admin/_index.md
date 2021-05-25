@@ -47,6 +47,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9714-7903
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZM4LIDgAAAAJ&hl=en
@@ -56,9 +59,6 @@ social:
 - icon: academia
   icon_pack: ai
   link: https://tallinn.academia.edu/VejuneZemaityte
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-9714-7903
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/vejunezemaityte
@@ -66,7 +66,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/VejuneZem
 - icon: envelope
-  icon_pack: fas
+  icon_pack: far
   link: 'mailto:hello@vejune-zemaityte.com'
 - icon: cv
   icon_pack: ai
@@ -83,4 +83,4 @@ social:
 highlight_name: false
 ---
 
-Dr Vejune Zemaityte is a Senior Research Fellow in Cultural Data Analytics at the [Baltic Film, Media and Arts School (BFM)](https://www.tlu.ee/en/bfm), [Tallinn University](https://www.tlu.ee/en/) in Estonia working as part of the [CUDAN Open Lab](https://cudan.tlu.ee/). She uses data analysis and visualisation techniques including social network analysis to study global creative industries. Vejune is interested in the circulation of cultural products through time and space, audience accessibility to diverse cultural content across geographic areas, and gender inequality in cultural production. Her work is interdisciplinary, data-driven, and industry-facing, often performed in collaboration with external partners.
+Dr Vejune Zemaityte is a Senior Research Fellow in Cultural Data Analytics at the [Baltic Film, Media and Arts School (BFM)](https://www.tlu.ee/en/bfm), Tallinn University in Estonia working as part of the [CUDAN Open Lab](https://cudan.tlu.ee/). She uses data analysis and visualisation techniques including social network analysis to study global creative industries. Vejune is interested in the circulation of cultural products through time and space, audience accessibility to diverse cultural content across geographic areas, and gender inequality in cultural production. Her work is interdisciplinary, data-driven, and industry-facing, often performed in collaboration with external partners.
