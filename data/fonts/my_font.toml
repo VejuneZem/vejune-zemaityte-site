@@ -5,7 +5,7 @@ name = "my_font"
 google_fonts = "family=Chakra+Petch"
 
 # Font families
-heading_font = "Chakra+Petch"
-body_font = "Chakra+Petch"
-nav_font = "Chakra+Petch"
-mono_font = "Chakra+Petch"
+heading_font = "Chakra Petch"
+body_font = "Chakra Petch"
+nav_font = "Chakra Petch"
+mono_font = "Chakra Petch"
