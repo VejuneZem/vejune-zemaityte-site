@@ -25,8 +25,9 @@ url_project: ""
 publication_short: NECSUS
 url_source: ""
 url_video: ""
-title: "Disciplinary Itineraries and Digital Methods:"
-subtitle: Examining the Kinomatics Collaboration Networks
+title: "Disciplinary Itineraries and Digital Methods: Examining the Kinomatics
+  Collaboration Networks"
+subtitle: ""
 doi: 10.25969/mediarep/15320
 featured: true
 tags:
@@ -42,9 +43,9 @@ image:
   focal_point: center
   preview_only: false
   filename: thumbnail_fig-4_kinomatics-collaboration-landscape-image-7-9-20-d_page_3-1030x579.jpg
-date: 2013-07-01T00:00:00Z
+date: 2020-12-10T22:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
