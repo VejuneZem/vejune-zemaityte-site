@@ -19,7 +19,7 @@ organizations:
 bio: I study screen industries through data analysis and visualisation.
 
 # Interests to show in About widget
-Research Areas:
+interests:
 - Cultural Data Analytics
 - Screen Industries
 - Diversity
