@@ -39,24 +39,27 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:hello@vejune-zemaityte.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/VejuneZem
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZM4LIDgAAAAJ&hl=en
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/vejunezemaityte
+- icon: researchgate
+  icon_pack: ai
+  link: http://www.researchgate.net/profile/Vejune_Zemaityte
 - icon: academia
   icon_pack: ai
   link: https://tallinn.academia.edu/VejuneZemaityte
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9714-7903
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/vejunezemaityte
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/VejuneZem
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:hello@vejune-zemaityte.com'
 - icon: cv
   icon_pack: ai
   link: media/resume.pdf
@@ -68,11 +71,8 @@ social:
 #   icon_pack: ai
 #   link: media/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Dr. Vejune Zemaityte is a Senior Research Fellow in Cultural Data Analytics at the Baltic Film, Media and Arts School (BFM) in Tallinn University, Estonia working as part of the CUDAN Open Lab. Vejune uses data analysis and visualisation techniques to study global cultural and creative industries, focusing on cinema and gender. She is interested in the movement of cultural products through time and space. During her doctoral study at Deakin University in Australia performed as part of the international cross-university multidisciplinary Kinomatics Research Group Vejune analysed global film distribution trends using big data on theatrical screenings. In the postdoctoral phase at the CUDAN Open Lab, she continues with interdisciplinary, data-driven, and industry-facing work which focuses on content, origin, and gender diversity in global cinema. Vejune is currently a co-PI in a project “Gendered Analysis of the Luxembourgish Film Industry Network” performed in collaboration with the industry partner Fraen Am Bild – Women In Motion and a co-investigator in a project “Workforce Development and Diversity in Australian Cinematography” undertaken with the Australian Cinematographers Society. The two projects deal with gender inequality in film production sectors across different national industries using Social Network Analysis. Vejune is also a co-investigator in the project “The Public Value Chains of Cultural Open Data Solutions” performed in collaboration between Tallinn University and the Tallinn University of Technology, a research intervention into how Web 3.0 technologies could change how value is created and perceived in media and cultural industries.
+Dr Vejune Zemaityte is a Senior Research Fellow in Cultural Data Analytics at Tallinn University in Estonia working as part of the CUDAN Open Lab. She uses data analysis and visualisation techniques to study global creative industries. Vejune is interested in the circulation of cultural products through time and space, accessibility to diverse cultural content across geographic areas, and gender inequalities in cultural production. Her work is interdisciplinary, data-driven, and industry-facing, often performed in collaboration with external partners.
