@@ -16,20 +16,19 @@ organizations:
   url: https://www.tlu.ee/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I study screen industries through data analysis and visualisation.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Research Areas:
+- Cultural Data Analytics
+- Screen Industries
+- Diversity
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Communication
     institution: Deakin University, Australia
-    url: https://cudan.tlu.ee/
     year: 2019
   - course: BA in Economics, Psychology & Media
     institution: Utrecht University, Netherlands
