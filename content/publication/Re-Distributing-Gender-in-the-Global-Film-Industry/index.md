@@ -37,7 +37,7 @@ image:
   filename: featured.jpg
 date: 2019-10-03T22:00:00.000Z
 url_slides: ""
-publishDate: 22019-10-03T22:00:00.000Z
+publishDate: 2019-10-03T22:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
