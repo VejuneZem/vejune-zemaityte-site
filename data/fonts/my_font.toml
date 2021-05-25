@@ -5,7 +5,7 @@ name = "my_font"
 google_fonts = "family=Lexend:wght@300&family=Mukta&display=swap&family=Monoton&family=Raleway&display=swap&family=Pacifico"
 
 # Font families
-heading_font = "Pacifico"
+heading_font = "Lexend"
 body_font = "Lexend"
-nav_font = "Pacifico"
-mono_font = "Lexend"
+nav_font = "Lexend"
+mono_font = "Pacifico"
