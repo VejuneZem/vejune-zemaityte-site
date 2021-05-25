@@ -42,7 +42,7 @@ image:
   caption: Visualisation of collaboration as parallel timelines, by Michelle Mantsio.
   focal_point: center
   preview_only: false
-  filename: thumbnail_fig-4_kinomatics-collaboration-landscape-image-7-9-20-d_page_3-1030x579.jpg
+  filename: featured.jpg
 date: 2020-12-10T22:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
