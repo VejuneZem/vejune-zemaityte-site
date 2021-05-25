@@ -1,6 +1,7 @@
 ---
 title: VEJUNE ZEMAITYTE
 role: Senior Research Fellow in Cultural Data Analytics
+avatar_filename: avatar.jpg
 bio: I study screen industries through data analysis and visualisation.
 interests:
   - screen industries
