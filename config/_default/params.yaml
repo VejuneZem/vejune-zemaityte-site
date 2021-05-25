@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: cyber_punk
+theme: my theme
 day_night: false
 font: 
 font_size: M
@@ -109,7 +109,7 @@ abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
-  shape: square
+  shape: original
 publications:
   date_format: January 2006
   citation_style: apa
