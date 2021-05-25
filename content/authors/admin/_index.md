@@ -50,7 +50,7 @@ education:
       institution: Utrecht University, Netherlands
       year: 2014
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 #   
 #   
