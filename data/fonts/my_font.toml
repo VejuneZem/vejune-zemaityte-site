@@ -5,7 +5,7 @@ name = "my_font"
 google_fonts = "family=Dosis:wght@400;600&family=Mukta&display=swap"
 
 # Font families
-heading_font = "Dosis"
+heading_font = "Mukta"
 body_font = "Mukta"
-nav_font = "Dosis"
+nav_font = "Mukta"
 mono_font = "Mukta"
