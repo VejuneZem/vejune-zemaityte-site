@@ -2,7 +2,7 @@
 name = "my_font"
 
 # Optional Google font URL
-google_fonts = "family=Abril+Fatface&family=Mukta&display=swap"
+# google_fonts = "family=Abril+Fatface&family=Mukta&display=swap"
 
 # Font families
 heading_font = "Abril Fatface"
