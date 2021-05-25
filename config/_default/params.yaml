@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: strawberry
 day_night: true
-font: mr robot
+font:
 font_size: S
 
 # SEO
