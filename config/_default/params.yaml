@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: strawberry
+theme: rose
 day_night: true
-font:
-font_size: S
+font: minimal
+font_size: M
 
 # SEO
 
