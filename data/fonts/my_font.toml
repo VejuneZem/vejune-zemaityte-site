@@ -2,10 +2,10 @@
 name = "my_font"
 
 # Optional Google font URL
-# google_fonts = "family=Abril+Fatface&family=Mukta&display=swap"
+google_fonts = "family=Martel:wght@600&family=Mukta&display=swap"
 
 # Font families
-heading_font = "Abril Fatface"
+heading_font = "Martel"
 body_font = "Mukta"
 nav_font = "Abril Fatface"
 mono_font = "Mukta"
