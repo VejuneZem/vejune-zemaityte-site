@@ -54,6 +54,12 @@ social:
 - icon: academia
   icon_pack: ai
   link: https://tallinn.academia.edu/VejuneZemaityte
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9714-7903
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
