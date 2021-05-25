@@ -42,7 +42,7 @@ image:
   caption: Visualisation of collaboration as parallel timelines, by Michelle Mantsio.
   focal_point: center
   preview_only: false
-  filename: featured.jpg
+  filename: Disciplinary-Itineraries-and-Digital-Methods.jpg
 date: 2020-12-10T22:00:00.000Z
 url_slides: ""
 publishDate: 2020-12-10T22:00:00.000Z
