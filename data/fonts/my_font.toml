@@ -2,10 +2,10 @@
 name = "my_font"
 
 # Optional Google font URL
-google_fonts = "family=Mukta:wght@400"
+google_fonts = "family=Mukta:wght@400&family=Assistant"
 
 # Font families
 heading_font = "Mukta"
-body_font = "Mukta"
+body_font = "Assistant"
 nav_font = "Mukta"
 mono_font = "Mukta"
