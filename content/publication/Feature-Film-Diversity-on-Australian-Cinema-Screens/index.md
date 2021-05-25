@@ -3,7 +3,7 @@ abstract: "Like in much of the world, cinema screens in Australia are dominated 
 slides: ""
 url_pdf: ""
 publication_types:
-  - "2"
+  - "6"
 authors:
   - Bronwyn Coate
   - Deb Verhoeven
