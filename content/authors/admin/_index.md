@@ -30,9 +30,10 @@ education:
   courses:
   - course: PhD in Communication
     institution: Deakin University, Australia
+    url: https://cudan.tlu.ee/
     year: 2019
   - course: BA in Economics, Psychology & Media
-    institution: Utrecht University
+    institution: Utrecht University, Netherlands
     year: 2014
 
 # Social/Academic Networking
