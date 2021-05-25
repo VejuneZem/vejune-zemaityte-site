@@ -6,8 +6,7 @@ title: Vejune Zemaityte
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Fellow in 
-Cultural Data Analytics
+role: Senior Research Fellow in Cultural Data Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
