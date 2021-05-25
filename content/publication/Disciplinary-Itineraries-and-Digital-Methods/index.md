@@ -25,8 +25,8 @@ url_project: "Kinomatics"
 publication_short: NECSUS
 url_source: ""
 url_video: ""
-title: "Disciplinary Itineraries and Digital Methods: Examining the Kinomatics
-  Collaboration Networks"
+title: "Disciplinary itineraries and digital methods: Examining the Kinomatics
+  collaboration networks"
 subtitle: ""
 doi: 10.25969/mediarep/15320
 featured: true
