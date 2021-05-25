@@ -20,17 +20,13 @@ bio: I study screen industries through data analysis and visualisation.
 
 # Interests to show in About widget
 interests:
-- cultural data analytics
 - screen industries
 - circulation
 - accessibility
-- cultural tastes
 - diversity
 - gender
-- cultural labour
 - collaboration networks
 - public value
-- industry-facing research
 
 # Education to show in About widget
 education:
