@@ -26,7 +26,7 @@ email: hello@vejune-zemaityte.com
 
 main_menu:
   enable: true
-  align: l
+  align: 2
   show_logo: true
   show_language: false
   show_day_night: true
