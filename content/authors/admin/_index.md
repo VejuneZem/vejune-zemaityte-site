@@ -10,6 +10,8 @@ role: Senior Research Fellow in Cultural Data Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: CUDAN Open Lab
+  url: https://www.stanford.edu/
 - name: Tallinn University
   url: https://www.stanford.edu/
 
@@ -25,15 +27,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Communication
+    institution: Deakin University, Australia
+    year: 2019
+  - course: BA in Economics, Psychology & Media
+    institution: Utrecht University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
