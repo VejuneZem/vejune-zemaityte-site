@@ -4,7 +4,7 @@ title: Movies in Transit - Analysing the Diversity of Globally Distributed Film 
 event: European Network for Cinema and Media Studies (NECS) Conference
 event_url: https://necs.org/conference/
 
-location: University of Palermo
+location: European Network for Cinema and Media Studies (NECS) Conference, University of Palermo
 address:
   street: Piazza Marina, 61
   city: Palermo
@@ -49,7 +49,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -60,7 +60,7 @@ projects:
 - example
 ---
 
-## Abstract
+### Abstract
 
 This paper is concerned with global film distribution in the digital age. We compare film-import profiles of 40 countries to examine the diversity of foreign content released in theatres during 2013–2015. Our primary focus is on gender and cultural diversity of feature films. We analyse the national exposure of imported films directed by women and mixed-gender teams to discuss gender diversity. Cultural diversity is addressed by examining the theatrical availability of films from different origins with a focus on productions from outside the US and the Global South. 
 
