@@ -11,7 +11,7 @@ main:
     url: '/publication'
     weight: 20
   - name: Talks
-    url: '/event'
+    url: '/talk'
     weight: 30
   - name: CV
     url: media/resume.pdf
