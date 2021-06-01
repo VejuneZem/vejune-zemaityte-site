@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Movies in Transit - The Diversity of Globally Distributed Film Content"
+title: "Movies in Transit"
 event:
 event_url:
 location: European Network for Cinema and Media Studies (NECS) Conference, University of Palermo, Italy
