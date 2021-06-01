@@ -1,5 +1,5 @@
 ---
-title: Movies in Transit
+title: Movies in Transit: The Diversity of Globally Distributed Film Content
 
 event: European Network for Cinema and Media Studies (NECS) Conference
 event_url: https://example.org
@@ -28,7 +28,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
