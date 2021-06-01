@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Movies in Transit: The Diversity of Globally Distributed Film Content"
+title: "Movies in Transit - The Diversity of Globally Distributed Film Content"
 event:
 event_url:
 location: European Network for Cinema and Media Studies (NECS) Conference, University of Palermo, Italy
@@ -64,7 +64,8 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["Kinomatics"]
+projects: 
+- Kinomatics
 ---
 
 ### Abstract
