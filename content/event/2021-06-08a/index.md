@@ -16,8 +16,8 @@ summary: A talk about cultural and gender diversity in internaitonal cinema prog
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-08T13:00:00Z"
-date_end: "2021-06-08T15:00:00Z"
+date: "2021-06-08"
+date_end: "2021-06-08"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -38,7 +38,7 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://necs.org/conference/"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -56,7 +56,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- Kinomatics
 ---
 
 ### Abstract
