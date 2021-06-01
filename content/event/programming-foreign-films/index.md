@@ -67,6 +67,7 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 projects:
 - Kinomatics
+- CUDAN
 ---
 
 ### Abstract
