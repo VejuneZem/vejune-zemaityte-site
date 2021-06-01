@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: Movies in Transit
 
-event: Wowchemy Conference
+event: European Network for Cinema and Media Studies (NECS) Conference
 event_url: https://example.org
 
 location: Wowchemy HQ
