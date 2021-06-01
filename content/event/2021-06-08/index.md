@@ -1,7 +1,7 @@
 ---
-title: Movies in Transit. Analysing the Diversity of Globally Distributed Film Content
+title: "Movies in Transit: Analysing the Diversity of Globally Distributed Film Content"
 
-event: European Network for Cinema and Media Studies (NECS) Conference “Transitions: Moving Images and Bodies”
+event: "European Network for Cinema and Media Studies (NECS) Conference “Transitions: Moving Images and Bodies”"
 event_url: https://necs.org/conference/
 
 location: University of Palermo
