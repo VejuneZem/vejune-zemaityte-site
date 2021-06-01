@@ -5,6 +5,7 @@ event: European Network for Cinema and Media Studies (NECS) Conference
 event_url: https://necs.org/conference/
 
 location: European Network for Cinema and Media Studies (NECS) Conference, University of Palermo
+location_url: https://necs.org/conference/
 address:
   street: Piazza Marina, 61
   city: Palermo
