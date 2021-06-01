@@ -4,7 +4,7 @@ summary: "ERA Chair Project: Cultural Data Analytics"
 tags:
 - cultural data analytics
 
-# date: "2019-01-01T00:00:00Z"
+date: "2019-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,7 @@ image:
 
 links:
 - icon: mouse-pointer
-  icon_pack: fab
+  icon_pack: fas
   name: url
   url: https://cudan.tlu.ee/
 - icon: twitter
