@@ -1,5 +1,5 @@
 ---
-title: Movies in Transit: The Diversity of Globally Distributed Film Content
+title: Movies in Transit
 
 event: European Network for Cinema and Media Studies (NECS) Conference
 event_url: https://example.org
