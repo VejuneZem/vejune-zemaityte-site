@@ -55,7 +55,7 @@ image:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: https://cudan.tlu.ee/pub/20210521_CUDAN_DH_Pizza-slides.pdf
 url_video: ""
 
 # Markdown Slides (optional).
