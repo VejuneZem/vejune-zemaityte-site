@@ -4,21 +4,20 @@ title: Movies in Transit - Analysing the Diversity of Globally Distributed Film 
 # event: European Network for Cinema and Media Studies (NECS) Conference
 # event_url: https://necs.org/conference/
 
-location: European Network for Cinema and Media Studies (NECS) Conference, University of Palermo
-address:
-  street: Piazza Marina, 61
-  city: Palermo
-  region: PA
-  postcode: '90133'
-  country: Italy
+location: European Network for Cinema and Media Studies (NECS) Conference, University of Palermo, Italy
+# address:
+#  street: Piazza Marina, 61
+#  city: Palermo
+#  region: PA
+#  postcode: '90133'
+#  country: Italy
 
 summary: A talk about cultural and gender diversity in internaitonal cinema programming based on the Kinomatics Showtime Dataset.
-abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-06-08T13:00:00Z"
+date_end: "2020-06-08T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
