@@ -23,8 +23,19 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-01-01T00:00:00Z"
 
-authors: [Vejune Zemaityte, Deb Verhoeven, Bronwyn Coate]
-tags: [cinema distribution, gender diversity, cultural diversity, global film industry, international circulation, film screenings, big data, data visualisation]
+authors: 
+- Vejune Zemaityte
+- Deb Verhoeven
+- Bronwyn Coate
+tags:
+- cinema distribution
+- gender diversity
+- cultural diversity
+- global film industry
+- international circulation
+- film screenings
+- big data
+- data visualisation
 
 # Is this a featured talk? (true/false)
 featured: true
