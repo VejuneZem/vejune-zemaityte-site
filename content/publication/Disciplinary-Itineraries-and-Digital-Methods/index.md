@@ -38,7 +38,6 @@ tags:
   - social network analysis
 projects:
   - Kinomatics
-  - CUDAN
 image:
   caption: Visualisation of collaboration as parallel timelines, by Michelle Mantsio.
   focal_point: center

@@ -12,7 +12,7 @@ location: European Network for Cinema and Media Studies (NECS) Conference, Unive
 #  postcode: '90133'
 #  country: Italy
 
-summary: A talk about cultural and gender diversity in internaitonal cinema programming based on the Kinomatics Showtime Dataset.
+summary: A talk about cultural and gender diversity in internaitonal cinema programming.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
