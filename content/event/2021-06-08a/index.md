@@ -13,7 +13,13 @@ address:
   country: Italy
 
 summary: A talk about cultural and gender diversity in internaitonal cinema programming based on the Kinomatics Showtime Dataset.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "This paper is concerned with global film distribution in the digital age. We compare film-import profiles of 40 countries to examine the diversity of foreign content released in theatres during 2013–2015. Our primary focus is on gender and cultural diversity of feature films. We analyse the national exposure of imported films directed by women and mixed-gender teams to discuss gender diversity. Cultural diversity is addressed by examining the theatrical availability of films from different origins with a focus on productions from outside the US and the Global South. 
+
+The cultural diversity of the international cinema market has been a focus of academic attention (e.g., Masood 2019; Moreau & Peltier 2004; UNESCO 2016). However, with few exceptions (Coate et al. 2017; Coate et al. 2016), scholars have relied on the number of foreign films to determine the level of cultural diversity in the importing market. The issue of gender diversity in film, on the other hand, has been tackled mostly through national analysis of the production sector (e.g., Prommer & Loist 2015) with an exception of the recent European (Holly 2016) and global (Verhoeven et al. 2019) studies. This paper offers a global perspective on transnational film circulation and uses a granular measurement of a film’s foreign theatrical availability captured in the number of screenings it receives in each importing country to evaluate the audience access to culturally- and gender-diverse content. 
+
+Our discussion is informed by a large dataset of global film screenings from the Kinomatics Project (Kinomatics n.d.). The sample lists over 130m theatrical screening records from 40 countries comprising some of the world’s largest cinema markets including the United States, France, and Germany as well as emergent cinema markets such as Vietnam, Indonesia, and South Africa. Over 3k feature films produced in 122 origin countries are included within the dataset, amounting to over 15k film-country observations. 
+
+The findings from this paper contribute to the scholarly debate on cultural and gender diversity in the globalised cinema market and provide policy implications regarding the theatrical availability of diverse content."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
