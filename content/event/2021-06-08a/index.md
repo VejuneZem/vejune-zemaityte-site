@@ -16,8 +16,7 @@ summary: A talk about cultural and gender diversity in internaitonal cinema prog
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-08"
-date_end: "2021-06-08"
+date: "2021-06-08T13:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
