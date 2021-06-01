@@ -2,17 +2,17 @@
 title: Movies in Transit
 
 event: European Network for Cinema and Media Studies (NECS) Conference
-event_url: https://example.org
+event_url: https://necs.org/conference/
 
-location: Wowchemy HQ
+location: University of Palermo
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Piazza Marina, 61
+  city: Palermo
+  region: PA
+  postcode: '90133'
+  country: Italy
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: A talk about cultural and gender diversity in internaitonal cinema programming based on the Kinomatics Showtime Dataset.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
