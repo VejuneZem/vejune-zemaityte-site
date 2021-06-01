@@ -1,7 +1,7 @@
 ---
 title: Movies in Transit
 
-event: "European Network for Cinema and Media Studies (NECS) Conference “Transitions: Moving Images and Bodies”"
+event: European Network for Cinema and Media Studies (NECS) Conference
 event_url: https://necs.org/conference/
 
 location: University of Palermo
