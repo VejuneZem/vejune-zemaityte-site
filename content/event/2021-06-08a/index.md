@@ -16,29 +16,29 @@ summary: A talk about cultural and gender diversity in internaitonal cinema prog
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-06-08T13:00:00Z"
-date_end: "2020-06-08T15:00:00Z"
+date: "2021-06-08T13:00:00Z"
+date_end: "2021-06-08T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [Vejune Zemaityte, Deb Verhoeven, Bronwyn Coate]
+tags: [cinema distribution, gender diversity, cultural diversity, global film industry, international circulation, film screenings, big data, data visualisation]
 
 # Is this a featured talk? (true/false)
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 
   focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+# links:
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: "https://necs.org/conference/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
