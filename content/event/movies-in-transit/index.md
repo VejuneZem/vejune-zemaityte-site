@@ -96,3 +96,4 @@ Prommer, E. & Loist, S. (2015). Who directs German feature films? Gender report:
 UNESCO. (2016). Diversity and the film industry: An analysis of the 2014 UIS Survey on Feature Film Statistics. 
 
 Verhoeven, D., Coate, B., & Zemaityte, V. (2019). Re-distributing gender in the global film industry: Beyond #MeToo and #MeThree. Media Industries Journal, 6(1), 135–155.
+---
