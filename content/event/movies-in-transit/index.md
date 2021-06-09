@@ -38,7 +38,7 @@ tags:
 - data visualisation
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 
