@@ -81,7 +81,7 @@ Our discussion is informed by a large dataset of global film screenings from the
 
 The findings from this paper contribute to the scholarly debate on cultural and gender diversity in the globalised cinema market and provide policy implications regarding the theatrical availability of diverse content.
 
-### Refrences
+### References
 
 Coate, B., Verhoeven, D., Arrowsmith, C., & Zemaityte, V. (2017). Feature film diversity on Australian cinema screens: Implications for cultural diversity studies using big data. In M. D. Ryan & B. Goldsmith (Eds.), Australian Screen in the 2000s (pp. 341–360). Cham: Springer International Publishing.
 
