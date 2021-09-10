@@ -4,7 +4,7 @@ title: "Exploring Soviet Newsreels 1927-1994 Using a Cultural Data Analytics App
 # event: International Conference on Cultural Economics (ACEI)
 # event_url: 
 
-location: Digital Data in the Service of Cultural Heritage workshop, Estonian Maritime Museum & School of Humanities, Tallinn University, Estonia
+location: Digital Data in the Service of Cultural Heritage workshop, Estonian Maritime Museum & Tallinn University, Estonia
 # address:
 #  street: Piazza Marina, 61
 #  city: Palermo
