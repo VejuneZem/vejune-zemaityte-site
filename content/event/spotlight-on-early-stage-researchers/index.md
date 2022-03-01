@@ -18,10 +18,10 @@ summary: A talk discussing opportunities and challenges in adopting social netwo
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-03-07T13:00:00Z"
 # date_end: "2021-06-08"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-03-01T00:00:00Z"
+publishDate: "2022-02-28T00:00:00Z"
 
 authors: 
 - Vejune Zemaityte
