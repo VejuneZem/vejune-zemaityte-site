@@ -7,7 +7,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 
+weight: 20
 
 title: Upcoming talks
 subtitle: ""
