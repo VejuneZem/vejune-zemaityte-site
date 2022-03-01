@@ -4,7 +4,7 @@ title: "Using Social Network Analysis to Study Gender Inequality in Screen Media
 # event: Spotlight on Early Stage Researchers: Vejune Zemaityte and Ivana Kostovska tell us about their research and the challenges, ScreenME Project
 event_url: https://us02web.zoom.us/webinar/register/WN_L_QV1R5BSdm_pY1wewvQGQ
 
-location: "Invited talk: Spotlight on Early Stage Researchers, ScreenME Project"
+location: "Invited talk: Spotlight on Early Stage Researchers, ScreenME Project, online"
 # address:
 #  street: Piazza Marina, 61
 #  city: Palermo
