@@ -2,7 +2,7 @@
 title: "Interdisciplinary Research Interventions for the Creation of Public Value in the Screen Media Industry"
 
 # event: 
-event_url: https://ju-se.zoom.us/j/745204163
+# event_url: 
 
 location: "Invited talk: MMTC Research Seminar; Media, Management and Transformation Centre; Jönköping University, Sweden"
 # address:
@@ -16,8 +16,8 @@ summary: "A talk discussing ongoing work on “Public Value of Open Cultural Dat
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-04-27T10:00:00Z"
-date_end: "2022-04-27T11:00:00Z"
+date: "2022-04-27T00:00:00Z"
+# date_end: "2022-04-27T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
