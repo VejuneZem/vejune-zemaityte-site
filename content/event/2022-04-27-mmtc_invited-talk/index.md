@@ -4,7 +4,7 @@ title: "Interdisciplinary Research Interventions for the Creation of Public Valu
 # event: 
 # event_url: 
 
-location: "Invited talk: MMTC Research Seminar; Media, Management and Transformation Centre; Jönköping University, Sweden"
+location: "Invited talk: MMTC Research Seminar, Media, Management and Transformation Centre, Jönköping University, Sweden"
 # address:
 #  street: Piazza Marina, 61
 #  city: Palermo
@@ -18,7 +18,7 @@ summary: "A talk discussing ongoing work on “Public Value of Open Cultural Dat
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-04-27T00:00:00Z"
 # date_end: "2022-04-27T11:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-04-23T00:00:00Z"
