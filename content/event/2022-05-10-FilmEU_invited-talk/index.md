@@ -4,7 +4,7 @@ title: "Cultural Data Analytics for Understanding Today’s Cinema"
 # event: 
 # event_url: 
 
-location: "Invited talk: FilmEU Talks, European Universities Alliance for Film and Media Arts, online"
+location: "Invited talk: FilmEU Talks: Experts on Air, European Universities Alliance for Film and Media Arts, online"
 # address:
 #  street: Piazza Marina, 61
 #  city: Palermo
