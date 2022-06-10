@@ -12,7 +12,7 @@ location: "EMMA European Media Management Association Conference, Macromedia Uni
 #  postcode: '90133'
 #  country: Italy
 
-summary: "A conference paper discussing the screeb media industry network of the Nordic-Baltic region"
+summary: "A conference paper discussing the screen media industry network of the Nordic-Baltic region"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
