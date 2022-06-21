@@ -4,7 +4,7 @@ title: "Tracing Gender Diversity in Labour Networks of Soviet Newsreel Productio
 # event: 
 # event_url: 
 
-location: "ICA Regional Conference 2022: Computational Communication Research in Central and Eastern Europe, Helsinki, Finland"
+location: "ICA Regional Conference 2022: Computational Communication Research in Central and Eastern Europe, University of Helsinki, Finland"
 # address:
 #  street: Piazza Marina, 61
 #  city: Palermo
