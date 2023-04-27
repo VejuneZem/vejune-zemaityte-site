@@ -10,7 +10,7 @@ authors:
   - Stuart Palmer
   - Sarah Taylor
   - Shaukat Abidi
-  - admin
+  - Vejune Zemaityte
   - Lachlan Simpson
 author_notes: []
 publication: PloS ONE

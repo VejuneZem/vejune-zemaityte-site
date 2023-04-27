@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Indrek Ibrus
   - Andres Karjus
-  - admin
+  - Vejune Zemaityte
   - Ulrike Rohn
   - Maximilian Schich
 author_notes: []

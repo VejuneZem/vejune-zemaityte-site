@@ -9,7 +9,7 @@ authors:
   - Paul S. Moore
   - Amanda Coles
   - Bronwyn Coate
-  - admin
+  - Vejune Zemaityte
   - Katarzyna Musial
   - Elizabeth Prommer
   - Michelle Mantsio

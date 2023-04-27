@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Deb Verhoeven
   - Bronwyn Coate
-  - admin
+  - Vejune Zemaityte
 author_notes: []
 publication: Media Industries
 summary: ""

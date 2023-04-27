@@ -5,7 +5,7 @@ url_pdf: ""
 publication_types:
   - "3"
 authors:
-  - admin
+  - Vejune Zemaityte
   - Andres Karjus
   - Ulrike Rohn
   - Maximilian Schich

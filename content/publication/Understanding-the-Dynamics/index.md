@@ -5,7 +5,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - admin
+  - Vejune Zemaityte
   - Deb Verhoeven
   - Bronwyn Coate
 author_notes: []

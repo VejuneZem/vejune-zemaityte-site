@@ -8,7 +8,7 @@ authors:
   - Bronwyn Coate
   - Deb Verhoeven
   - Colin Arrowsmith
-  - admin
+  - Vejune Zemaityte
 author_notes: []
 publication: Australian Screen in the 2000s
 summary: ""
