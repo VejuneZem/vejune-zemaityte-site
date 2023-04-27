@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Amanda Coles
   - Justine Ferrer
-  - admin
+  - Vejune Zemaityte
   - with Marcus Banks
 author_notes: []
 publication: Australian Cinematographers Society
