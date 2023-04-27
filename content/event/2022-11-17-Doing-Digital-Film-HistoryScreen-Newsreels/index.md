@@ -1,5 +1,5 @@
 ---
-title: "Exploring Digital Methods for Studying Newsreels."
+title: "Exploring Digital Methods for Studying Newsreels"
 
 # event: 
 # event_url: 
