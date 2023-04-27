@@ -76,7 +76,8 @@ The film festival circuit is an integral component in the global film industry, 
 
 Conference website: https://netsci2023.wixsite.com/netsci2023
 
-####References
+
+#### References
 
 De Valck, M. (2007) Film festivals: from European geopolitics to global Cinephilia. Amsterdam University Press, Amsterdam.
 
