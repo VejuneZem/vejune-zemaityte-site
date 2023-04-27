@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: "The Kinomatics project is an international, interdisciplinary project applying innovative digital practices to study creative industries, particularly the film industry. Kinomatics uses data-driven tools and methods to examine the social, cultural, and economic ‘relationality’ of film distribution as a complex, overlapping, co-constituting media infrastructure. What is unique to this project is the way we apply the same methods for the study of film circulation to evaluate our own collaboration networks and determine future research opportunities. We produce both research tools and analysis that is focused on intervening in, rather than just describing, the creative industries. Kinomatics derives this recursive approach to method from digital humanities. This article conceptualises our approach with a critical social network analysis of how our own collaborations are structured and open to being reshaped. Being mindful of our multi-disciplinary methods as dispersed ‘teams of teams’ emphasises the relational dimensions of our work. These connections represent a significant interpersonal investment that is not always evident in the formal measurement of academic success, such as co-authorship for example. In researching how cinema operates as a global cultural industry, Kinomatics team members aim to collaborate on a ‘global’ scale themselves, across geographic and disciplinary boundaries. This article will show how our migration across specialities in inter-team collaboration and co-authorship has contributed to new approaches and collaboration dynamics."
 slides: ""
 url_pdf: ""
 publication_types:
@@ -25,9 +25,8 @@ url_project: "Kinomatics"
 publication_short: NECSUS
 url_source: ""
 url_video: ""
-title: "Disciplinary itineraries and digital methods: Examining the Kinomatics
-  collaboration networks"
-subtitle: ""
+title: "Disciplinary itineraries and digital methods:"
+subtitle: "Examining the Kinomatics collaboration networks"
 doi: 10.25969/mediarep/15320
 featured: true
 tags:
