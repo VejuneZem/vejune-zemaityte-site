@@ -18,7 +18,7 @@ url_project: "CUDAN"
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Quantifying Public Value Creation by Public Service Media Using Big Programming Data"
+title: "Quantifying public calue creation by public service media using big programming data"
 subtitle: ""
 doi: 10.31235/osf.io/hysma
 featured: true

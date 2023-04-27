@@ -18,7 +18,7 @@ url_project: "CUDAN"
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Quantifying the Global Film Festival Circuit: Networks, Diversity, and Public Value Creation"
+title: "Quantifying the global film festival circuit: Networks, diversity, and public value creation"
 subtitle: ""
 doi: 10.31235/osf.io/g9w4b
 featured: true

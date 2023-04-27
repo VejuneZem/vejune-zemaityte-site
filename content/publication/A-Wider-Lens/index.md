@@ -17,7 +17,7 @@ url_project: "ACS"
 publication_short:
 url_source: ""
 url_video: ""
-title: "A Wider Lens: Workforce Development and Diversity in Australian Cinematography"
+title: "A wider lens: Workforce development and diversity in Australian cinematography"
 subtitle: ""
 doi:
 featured: true
