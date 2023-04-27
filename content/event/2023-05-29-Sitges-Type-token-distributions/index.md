@@ -85,7 +85,8 @@ This means that the type-token distribution has a form of a travelling wave with
 
 We discuss possible generalizations of this model, such as preferential choice of the subset of a classes.
 
--
+---
+
 #### References
 
 [1] W.J. Reed, Physica A, 319, 469 (2003).
