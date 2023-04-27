@@ -7,7 +7,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Recent publications
 subtitle: ""
@@ -38,5 +38,4 @@ design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "20px", "20px", "20px"]
-    view: 4
 ---
