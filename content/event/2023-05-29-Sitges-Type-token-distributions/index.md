@@ -1,3 +1,4 @@
+draft: true
 ---
 title: "Type-token distributions beyond the Zipf law: a simple model with choice"
 
@@ -66,7 +67,7 @@ url_video: ""
 projects:
 - CUDAN
 ---
-draft: true
+
 ### Abstract
 
 Zipf law is one of the very few regularities believed to permeate quantitative social sciences. It describes distribution of tokens (objects) between a given set of types (classes), and states that if types are order in descending order of popularity (number of tokens in them), then the size of a type is proportional to its rank in some negative power. This law is well established in wealth distribution (Pareto law),[^1] city science (Zipf law for city sizes),[^2] linguistics (distribution of word frequencies).[^3] The same law is believed to hold for the distribution of demand for cultural objects like movies, books, singles, etc., which is supposed to lead to important consequences for marketing.[^4]
