@@ -35,7 +35,8 @@ design:
   view: 4
 
 design:
-  spacing:
+   view: 4
+   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "20px", "20px", "20px"]
 ---
