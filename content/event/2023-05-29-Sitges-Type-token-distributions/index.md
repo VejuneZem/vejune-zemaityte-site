@@ -78,11 +78,11 @@ token to this class.
 
 In the limit of large number of classes $m → ∞$ and finite number of tokens per class $t = frac{N}{m}$ the model is described by the infinite set of differential equations
 $$dCk/dt = Cka−1 − Cka$$
-where Ck is the fraction of types with at most k tokens in them. We show that for large k and t the distribution Ck(t) converges to a scaling form C(x) where x = k/t, and C(x) satisfies
+where $Ck$ is the fraction of types with at most $k$ tokens in them. We show that for large $k$ and $t$ the distribution $Ck(t)$ converges to a scaling form $C(x)$ where $x = k/t$, and $C(x)$ satisfies
 $$(aCa−1 − x)C′ = 0$$
-with boundary conditions C(0) = 0, C(∞) = 1. This equation has a solution
+with boundary conditions $C(0) = 0, C(∞) = 1$. This equation has a solution
 $$C(x) = ( (1 for x/a)1/(a−1) for 0x > a < x < a$$
-This means that the type-token distribution has a form of a travelling wave with growing average number of tokens per class, the leading class has approximately at tokens in it. Converting this limiting behavior into the form of rank-size distribution we show that for a ≫ 1 it converges to the exponential distribution akin to one observed in the data.
+This means that the type-token distribution has a form of a travelling wave with growing average number of tokens per class, the leading class has approximately $at$ tokens in it. Converting this limiting behavior into the form of rank-size distribution we show that for $a ≫ 1$ it converges to the exponential distribution akin to one observed in the data.
 
 We discuss possible generalizations of this model, such as preferential choice of the subset of a classes.
 
