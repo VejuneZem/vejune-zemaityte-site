@@ -37,7 +37,7 @@ tags:
   - public value
 projects:
   - CUDAN
-  - Public value
+  - Public Value of Open Cultural Data
 image:
   caption: 
   focal_point: center
