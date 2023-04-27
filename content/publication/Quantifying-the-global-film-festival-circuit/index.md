@@ -14,7 +14,7 @@ author_notes: []
 publication: SocArXiv
 summary: ""
 url_dataset: ""
-url_project: "CUDAN"
+url_project: "CUDAN" "Public Value of Open Cultural Data"
 publication_short: ""
 url_source: ""
 url_video: ""
