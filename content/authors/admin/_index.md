@@ -40,26 +40,20 @@ organizations:
     url: https://www.tlu.ee/en/bfm
   - name: Tallinn University
     url: https://www.tlu.ee/en
-education:
-  courses:
-    - course: PhD in Communication
-      institution: Deakin University, Australia
-      year: 2019
-    - course: BA in Economics, Psychology & Media
-      institution: Utrecht University, Netherlands
-      year: 2014
+# education:
+#   courses:
+#    - course: PhD in Communication
+#      institution: Deakin University, Australia
+#      year: 2019
+#    - course: BA in Economics, Psychology & Media
+#      institution: Utrecht University, Netherlands
+#      year: 2014
 superuser: true
 highlight_name: true
 ---
-#   
-#   
-#   
-#   
-#   
-#   
-#   
+  
 Dr Vejune Zemaityte is a Senior Research Fellow at the [Baltic Film, Media and Arts School (BFM)](https://www.tlu.ee/en/bfm), Tallinn University in Estonia. She uses data analysis and visualisation techniques including social network analysis to study global creative industries. Vejune is interested in the circulation of cultural products through time and space, audience accessibility to diverse cultural content across geographic areas, and gender inequality in cultural production. Her work is interdisciplinary, data-driven, and industry-facing, often performed in collaboration with external partners.
 
 
-#### Interests 
+### Interests 
 screen industries    -    diversity    -    gender    -    big data    -    networks    -    public value
