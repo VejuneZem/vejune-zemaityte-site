@@ -1,5 +1,5 @@
 ---
-title:
+title: Vejune Zemaityte
 role: Senior Research Fellow
 avatar_filename: avatar.jpg
 bio: Researching screen industries through data analysis and visualisation.
