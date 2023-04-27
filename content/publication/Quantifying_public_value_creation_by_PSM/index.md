@@ -30,7 +30,7 @@ tags:
   - quantitative
 projects:
   - CUDAN
-  - Public value
+  - Public-value-of-open-cultural-data
 image:
   caption: 
   focal_point: center

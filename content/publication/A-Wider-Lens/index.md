@@ -28,6 +28,7 @@ tags:
   - cinematography
   - Australia
 projects:
+  - CUDAN
   - ACS
 image:
   caption:
