@@ -7,6 +7,7 @@ interests:
   - screen industries
   - diversity
   - gender
+  - big data
   - networks
   - public value
 social:
