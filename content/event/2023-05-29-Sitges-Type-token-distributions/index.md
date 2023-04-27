@@ -81,7 +81,7 @@ $$dC_{k}/dt = C_{k−1}^a − C_k^a,$$
 where $C_k$ is the fraction of types with at most $k$ tokens in them. We show that for large $k$ and $t$ the distribution $C_k(t)$ converges to a scaling form $C(x)$ where $x = k/t$, and $C(x)$ satisfies
 $$(aC^{a−1} − x)C′ = 0$$
 with boundary conditions $C(0) = 0, C(∞) = 1$. This equation has a solution
-$$C(x) = \begin{cases} (x/a)^{1/(a−1)} & \text{for }0 < X < a \\ 
+$$C(x) = \begin{cases} (x/a)^{1/(a−1)} & \text{for }0 < X < a, \\
 1 & \text{for } x > a\end{cases}$$
 This means that the type-token distribution has a form of a travelling wave with growing average number of tokens per class, the leading class has approximately $at$ tokens in it. Converting this limiting behavior into the form of rank-size distribution we show that for $a ≫ 1$ it converges to the exponential distribution akin to one observed in the data.
 
