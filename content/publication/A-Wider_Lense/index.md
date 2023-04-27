@@ -14,7 +14,7 @@ publication: Australian Cinematographers Society
 summary: ""
 url_dataset: ""
 url_project: "ACS"
-publication_short: ACS
+publication_short:
 url_source: ""
 url_video: ""
 title: "A Wider Lens: Workforce Development and Diversity in Australian Cinematography"
