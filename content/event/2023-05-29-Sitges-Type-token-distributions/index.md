@@ -76,9 +76,9 @@ Using historical data for film industry we show here that it is not always the c
 In order to describe this behavior we construct a following simple statistical model. Consider a set of $m$ initially empty classes (types) and sequentially add $N$ tokens to these types according to the following procedure: first, choose a subset of a types at random, then determine which of the classes in this subset currently has the largest number of tokens (if there is a draw between two or more leaders, then choose one of them at random) and add an additional
 token to this class.
 
-In the limit of large number of classes $m → ∞$ and finite number of tokens per class $t = \frac{N}{m}$ the model is described by the infinite set of differential equations
+In the limit of large number of classes $m → ∞$ and finite number of tokens per class $t = N/m$ the model is described by the infinite set of differential equations
 $$dC_{k}/dt = C_{k−1}^a − C_k^a$$
-where $Ck$ is the fraction of types with at most $k$ tokens in them. We show that for large $k$ and $t$ the distribution $Ck(t)$ converges to a scaling form $C(x)$ where $x = k/t$, and $C(x)$ satisfies
+where $C_k$ is the fraction of types with at most $k$ tokens in them. We show that for large $k$ and $t$ the distribution $C_k(t)$ converges to a scaling form $C(x)$ where $x = k/t$, and $C(x)$ satisfies
 $$(aCa−1 − x)C′ = 0$$
 with boundary conditions $C(0) = 0, C(∞) = 1$. This equation has a solution
 $$C(x) = \left\{ \begin{array}{rcl}
