@@ -77,9 +77,9 @@ In order to describe this behavior we construct a following simple statistical m
 token to this class.
 
 In the limit of large number of classes $m → ∞$ and finite number of tokens per class $t = N/m$ the model is described by the infinite set of differential equations
-$$dC_{k}/dt = C_{k−1}^a − C_k^a$$
+$$dC_{k}/dt = C_{k−1}^a − C_k^a,$$
 where $C_k$ is the fraction of types with at most $k$ tokens in them. We show that for large $k$ and $t$ the distribution $C_k(t)$ converges to a scaling form $C(x)$ where $x = k/t$, and $C(x)$ satisfies
-$$(aCa−1 − x)C′ = 0$$
+$$(aC^{a−1} − x)C′ = 0$$
 with boundary conditions $C(0) = 0, C(∞) = 1$. This equation has a solution
 $$C(x) = \left\{ \begin{array}{rcl}
 ( (1 for x/a)1/(a−1) for 0x > a < x < a
