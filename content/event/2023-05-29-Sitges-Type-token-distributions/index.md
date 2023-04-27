@@ -85,11 +85,15 @@ This means that the type-token distribution has a form of a travelling wave with
 
 We discuss possible generalizations of this model, such as preferential choice of the subset of a classes.
 
-####References
+---
+#### References
 
 [1] W.J. Reed, Physica A, 319, 469 (2003).
+
 [2] M. Barthelemy, The Structure and Dynamics of Cities: Urban Data Analysis and Theoretical Modeling, Cambridge University Press (2016).
+
 [3] M. Gerlach, E.G. Altmann, New J. of Physics, 16, 113010 (2014).
+
 [4] C. Anderson, The long tail: why the future of business Is selling less of more, Hyperion, New York, 2006.
 
 Conference website: https://sites.google.com/fmc.ub.edu/sitges-conference
