@@ -5,11 +5,9 @@ avatar_filename: avatar.jpg
 bio: Researching screen industries through data analysis and visualisation.
 interests:
   - screen industries
-  - circulation
-  - accessibility
   - diversity
   - gender
-  - collaboration networks
+  - networks
   - public value
 social:
   - icon: orcid
