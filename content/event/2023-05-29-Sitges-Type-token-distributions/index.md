@@ -75,7 +75,7 @@ Using historical data for film industry we show here that it is not always the c
 
 In order to describe this behavior we construct a following simple statistical model. Consider a set of m initially empty classes (types) and sequentially add N tokens to these types according to the following procedure: first, choose a subset of a types at random, then determine which of the classes in this subset currently has the largest number of tokens (if there is a draw between two or more leaders, then choose one of them at random) and add an additional
 token to this class.
-In the limit of large number of classes m → ∞ and finite number of tokens per class t = N/m the model is described by the infinite set of differential equations
+In the limit of large number of classes $m → ∞$ and finite number of tokens per class $t = N/m$ the model is described by the infinite set of differential equations
 dCk/dt = Cka−1 − Cka (1)
 where Ck is the fraction of types with at most k tokens in them. We show that for large k and t the distribution Ck(t) converges to a scaling form C(x) where x = k/t, and C(x) satisfies
 (aCa−1 − x)C′ = 0 (2)
@@ -85,13 +85,15 @@ This means that the type-token distribution has a form of a travelling wave with
 
 We discuss possible generalizations of this model, such as preferential choice of the subset of a classes.
 
----
 
 #### References
 
 [1] W.J. Reed, Physica A, 319, 469 (2003).
+
 [2] M. Barthelemy, The Structure and Dynamics of Cities: Urban Data Analysis and Theoretical Modeling, Cambridge University Press (2016).
+
 [3] M. Gerlach, E.G. Altmann, New J. of Physics, 16, 113010 (2014).
+
 [4] C. Anderson, The long tail: why the future of business Is selling less of more, Hyperion, New York, 2006.
 
 Conference website: https://sites.google.com/fmc.ub.edu/sitges-conference
