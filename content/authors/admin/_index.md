@@ -39,7 +39,7 @@ organizations:
   - name: Baltic Film, Media and Arts School
     url: https://www.tlu.ee/en/bfm
   - name: Tallinn University
-     url: https://www.tlu.ee/en
+    url: https://www.tlu.ee/en
 education:
   courses:
     - course: PhD in Communication
