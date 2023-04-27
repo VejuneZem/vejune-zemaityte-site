@@ -1,6 +1,6 @@
 ---
 title: Vejune Zemaityte
-role: Senior Research Fellow
+# role: Senior Research Fellow
 avatar_filename: avatar.jpg
 bio: Researching screen industries through data analysis and visualisation.
 # interests:
@@ -35,11 +35,11 @@ social:
   - icon: cv
     icon_pack: ai
     link: media/resume.pdf
-organizations:
-  - name: Baltic Film, Media and Arts School
-    url: https://www.tlu.ee/en/bfm
-  - name: Tallinn University
-    url: https://www.tlu.ee/en
+# organizations:
+#   - name: Baltic Film, Media and Arts School
+#     url: https://www.tlu.ee/en/bfm
+#   - name: Tallinn University
+#     url: https://www.tlu.ee/en
 # education:
 #   courses:
 #    - course: PhD in Communication
