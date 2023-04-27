@@ -3,13 +3,13 @@ title: Vejune Zemaityte
 role: Senior Research Fellow
 avatar_filename: avatar.jpg
 bio: Researching screen industries through data analysis and visualisation.
-interests:
-  - screen industries
-  - diversity
-  - gender
-  - big data
-  - networks
-  - public value
+# interests:
+#   - screen industries
+#   - diversity
+#   - gender
+#   - big data
+#   - networks
+#   - public value
 social:
   - icon: orcid
     icon_pack: ai
@@ -62,9 +62,4 @@ Dr Vejune Zemaityte is a Senior Research Fellow at the [Baltic Film, Media and A
 
 
 #### Interests 
-screen industries    diversity    gender    big data    networks    public value
-
-#### Education
-2019    PhD in Communication, Deakin University, Australia
-2016    BA in Economics, Psychology & Media, Utrecht University, Netherlands
-
+screen industries    -    diversity    -    gender    -    big data    -    networks    -    public value
