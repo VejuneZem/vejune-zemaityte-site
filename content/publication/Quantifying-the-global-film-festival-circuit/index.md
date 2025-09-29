@@ -16,7 +16,7 @@ summary: ""
 url_dataset: "https://github.com/andreskarjus/cinandofestivals"
 url_project: "CUDAN"
 publication_short: ""
-url_source: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297404"
+url_source: ""
 url_video: ""
 title: "Quantifying the global film festival circuit: Networks, diversity, and public value creation"
 subtitle: ""
@@ -43,7 +43,7 @@ image:
   focal_point: center
   preview_only: false
   filename: featured.jpg
-date: 2023-04-26T22:00:00.000Z
+date: 2024-03-06T22:00:00.000Z
 url_slides: ""
 publishDate: 2023-04-26T22:00:00.000Z
 url_poster: ""
