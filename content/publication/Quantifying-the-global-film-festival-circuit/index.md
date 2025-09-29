@@ -11,7 +11,7 @@ authors:
   - Maximilian Schich
   - Indrek Ibrus
 author_notes: []
-publication: SocArXiv
+publication: PlosOne
 summary: ""
 url_dataset: ""
 url_project: "CUDAN"
