@@ -1,9 +1,9 @@
 ---
-abstract: "In recent years a renewed interest has emerged in how public service media (PSM) generate public value, putting emphasis on how such value may express itself in multidimensional and non-linear ways. Yet, little has been achieved in systematically studying these ways and providing evidence to policymakers. In this paper, we propose that content diversity in TV programmes and the extent to which PSM collaborate with external partners could serve as quantifiable markers enabling the measurement of multidimensional public value creation. We also propose the utilization of a yet untapped resource for this purpose - data from broadcasters’ broadcast management systems (BMSs). Based on a comprehensive case study - Estonia’s public broadcaster ERR - we demonstrate a set of approaches to facilitate such analysis. These tools enabled us to show how a small PSM struggles with sustainable public value creation."
+abstract: "In recent years, a renewed interest in how public service media (PSM) generate public value has emerged emphasizing how such value may express itself in multidimensional and nonlinear ways. However, little has been achieved in systematically studying these ways and providing evidence to policy makers. In this article, we propose that content diversity in TV programs and the extent to which PSM collaborates with external partners could serve as quantifiable markers that enable the measurement of multidimensional public value creation. We also propose the utilization of an untapped resource for this purpose—data from broadcast management systems. Based on a comprehensive case study—Estonia’s public broadcaster, ERR—we demonstrate a set of approaches to facilitate such analysis. This article suggests further ways for developing the approach with a longer-term goal of turning the multidimensional public value generation into an automated and systematic study in the service of policy interventions."
 slides: ""
-url_pdf: ""
+url_pdf: "https://ijoc.org/index.php/ijoc/article/view/21035"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Indrek Ibrus
   - Andres Karjus
@@ -11,16 +11,16 @@ authors:
   - Ulrike Rohn
   - Maximilian Schich
 author_notes: []
-publication: SocArXiv
+publication: International Journal of Communication
 summary: ""
 url_dataset: ""
 url_project: "CUDAN"
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Quantifying public calue creation by public service media using big programming data"
+title: "Quantifying public value creation by public service media using big programming data"
 subtitle: ""
-doi: 10.31235/osf.io/hysma
+doi:
 featured: true
 tags:
   - television
@@ -36,7 +36,7 @@ image:
   focal_point: center
   preview_only: false
   filename: featured.jpg
-date: 2022-10-11T22:00:00.000Z
+date: 2023-11-13T22:00:00.000Z
 url_slides: ""
 publishDate: 2022-10-11T22:00:00.000Z
 url_poster: ""
