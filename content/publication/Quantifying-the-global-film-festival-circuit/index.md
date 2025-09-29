@@ -3,7 +3,7 @@ abstract: "Film festivals are a key component in the global film industry in ter
 slides: ""
 url_pdf: ""
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Vejune Zemaityte
   - Andres Karjus
