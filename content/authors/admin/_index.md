@@ -53,8 +53,10 @@ highlight_name: true
 ---
 </br>
 </br>
-Dr Vejune Zemaityte is a researcher and analytics specialist with more than a decade of experience transforming complex cultural and media datasets into actionable insights. Her work combines empirical research, quantitative analysis, and data visualisation to examine global screen and media industries.
-
-She has researched film production, theatrical distribution, film festivals, public service broadcasting, and historical newsreels, with a particular focus on diversity — including gender representation in media production and distribution, as well as cultural and thematic content diversity.
-
-Vejune’s approach is interdisciplinary, data-driven, and industry-facing. She frequently works with large-scale datasets and collaborates with academic, policy, and industry partners to produce peer-reviewed publications, policy reports, and public-facing insights. Her background includes extensive international experience, funded research projects, and mentoring students in data analysis and visualisation.
+**Dr Vejune Zemaityte** is a researcher and analytics specialist with **over 10 years** of experience transforming complex cultural and media datasets into actionable insights. Her work combines empirical research, quantitative analysis, and data visualisation to examine global creative and media industries.
+</br>
+She has researched film production, theatrical distribution, film festivals, public service broadcasting, and historical newsreels, with a particular focus on diversity — including gender representation in media production and distribution, as well as cultural and thematic content diversity. Her work draws on large-scale datasets such as the **Cinando** film festival database, the **Kinomatics** global theatrical showtime dataset, the **Estonian National Broadcast** archive, and 75 years of Soviet newsreels.
+</br>
+Vejune has contributed to 15 national and international projects supported by research schemes including **Horizon Europe**, **Erasmus Mundus**, and national funding programmes in Australia and Estonia, with a collective budget exceeding **€8 million**. She has co-authored **19 publications** and delivered **more than 60 talks and presentations**, sharing insights with both academic and industry audiences.
+</br>
+Her research is interdisciplinary, data-driven, and industry-facing, developed in collaboration with academic, policy, and industry partners worldwide. She also has extensive experience teaching and mentoring graduate students in data analysis and visualisation.
