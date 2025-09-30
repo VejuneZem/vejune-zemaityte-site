@@ -53,8 +53,8 @@ highlight_name: true
 ---
 </br>
 </br>
-Dr Vėjūnė Zemaitytė is a researcher and analytics specialist with more than a decade of experience transforming complex cultural and media datasets into actionable insights. Her work combines empirical research, quantitative analysis, and data visualisation to examine global screen and media industries.
+Dr Vejune Zemaityte is a researcher and analytics specialist with more than a decade of experience transforming complex cultural and media datasets into actionable insights. Her work combines empirical research, quantitative analysis, and data visualisation to examine global screen and media industries.
 
 She has researched film production, theatrical distribution, film festivals, public service broadcasting, and historical newsreels, with a particular focus on diversity — including gender representation in media production and distribution, as well as cultural and thematic content diversity.
 
-Vėjūnė’s approach is interdisciplinary, data-driven, and industry-facing. She frequently works with large-scale datasets and collaborates with academic, policy, and industry partners to produce peer-reviewed publications, policy reports, and public-facing insights. Her background includes extensive international experience, funded research projects, and mentoring students in data analysis and visualisation.
+Vejune’s approach is interdisciplinary, data-driven, and industry-facing. She frequently works with large-scale datasets and collaborates with academic, policy, and industry partners to produce peer-reviewed publications, policy reports, and public-facing insights. Her background includes extensive international experience, funded research projects, and mentoring students in data analysis and visualisation.
