@@ -12,7 +12,7 @@ author_notes: []
 publication: Cultural Trends
 summary: ""
 url_dataset: "https://github.com/andreskarjus/cinandofestivals"
-url_project: "Public-value-of-open-cultural-data" "CRESCINE"
+url_project: "CRESCINE"
 publication_short: ""
 url_source: ""
 url_video: ""
