@@ -38,9 +38,9 @@ image:
   focal_point: center
   preview_only: false
   filename: featured.jpg
-date: 2025-12-03T22:00:00.000Z
+date: 2025-12-02T22:00:00.000Z
 url_slides: ""
-publishDate: 2023-12-02T22:00:00.000Z
+publishDate: 2025-12-02T22:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
